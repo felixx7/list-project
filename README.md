@@ -6,27 +6,33 @@ List project
 - Refresh Token
 - create User
 - etc
-- link (not show public) 
+- link (not show public)
+
+2. QnA Project UI with Angular use Firebase
+- user list
+- question list
+- etc
+- link : https://qwertyqwerty-9ded3.web.app/qna
   
-2. Web menggunakan wordpress etalase alat-alat teknik
+3. Web menggunakan wordpress etalase alat-alat teknik
 - Menggunakan plugin berbayar sehingga tampilan lebih menarik
 - Slicing dengan teama dan warna yang diinginkan user
 - etc
 - link : https://orient.co.id/
 
-3. Landing Page untuk Pabrik roti Morin
+4. Landing Page untuk Pabrik roti Morin
 - tampilan yang flat menyesuaikan modern web
 - etc
 - link : https://fir-demo-6357d.firebaseapp.com/
 
-4. Service perpustakan
+5. Service perpustakan
 - memunculkan data
 - menampilkan error data jika duplikat
 - menampilkan error data jika tidak ada
 - etc
 - link : https://github.com/felixx7/cossmart
 
-5. E-Commerce dengan Codeigniter
+6. E-Commerce dengan Codeigniter
 - raja ongkir
 - upload image
 - keranjang
